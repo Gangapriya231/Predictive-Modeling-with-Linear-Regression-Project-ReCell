@@ -1,0 +1,2 @@
+# Predictive-Modeling-with-Linear-Regression-Project-ReCell
+Predictive modeling project to estimate the prices of used electronic devices using Linear Regression and other machine learning techniques. Used Python, Pandas, and Scikit-learn for data preprocessing, exploratory data analysis, model building, evaluation to identify key factors influencing resale prices and improve price prediction accuracy.  
